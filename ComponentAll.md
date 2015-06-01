@@ -1,0 +1,1 @@
+<p align='center'><wiki:gadget url="https://awe6.googlecode.com/svn/trunk/docs/awe6OverviewImagemapGadget.xml?dc=3" border="0" width="800" height="620" /></p>
